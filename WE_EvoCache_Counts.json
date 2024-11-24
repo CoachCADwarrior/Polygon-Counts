@@ -1,0 +1,29 @@
+{
+    "Total Games": 49,
+    "Polygon Point Counts": {
+        "Skyhook West": 13,
+        "Skyhook East": 44,
+        "Trials": 23,
+        "Lava Fissure": 28,
+        "Countdown": 41,
+        "Landslide": 23,
+        "Mirage": 20,
+        "Staging": 27,
+        "Thermal Station": 69,
+        "Tree": 35,
+        "Launch Site": 21,
+        "Syphon": 42,
+        "Harvester": 27,
+        "Geyser": 38,
+        "Big Maude": 30,
+        "Stacks": 11,
+        "Dome": 28,
+        "Routing Tunnel": 2,
+        "Survey Camp": 30,
+        "Climatizer": 37,
+        "Epicenter": 25,
+        "Overlook": 65,
+        "Fragment": 30,
+        "Monument": 47
+    }
+}
